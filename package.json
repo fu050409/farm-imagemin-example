@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "farm start",
+    "dev:vite": "vite",
     "start": "farm start",
     "build": "farm build",
     "build:vite": "vite build",
